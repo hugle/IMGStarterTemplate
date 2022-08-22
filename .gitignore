@@ -1,0 +1,21 @@
+# editors
+**/*.swp
+
+# python files
+**/*.pyc
+**/__pycache__
+build/
+dist/
+*.egg*
+
+# os
+.DS_Store
+
+# IDE
+.idea
+.vscode
+*.code-workspace
+.vs
+
+# C++ Build
+out
